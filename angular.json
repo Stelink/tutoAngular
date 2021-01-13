@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "tuto"
+  "defaultProject": "tuto",
+  "cli": {
+    "analytics": "1a711e12-b480-4079-bfd4-446096349eb7"
+  }
 }
